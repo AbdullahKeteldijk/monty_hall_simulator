@@ -1,6 +1,6 @@
 # Monty Hall Simulator
 
-This notebook contains a Monty Hall Simulator that implements three different game strategies and calculates their succes ratio. 
+This notebook contains a Monty Hall Simulator that implements three different game strategies and calculates their succes ratios. 
 
 We define three strategies:
 
