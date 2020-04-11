@@ -4,9 +4,9 @@ This notebook contains a Monty Hall Simulator that implements three different ga
 
 We define three strategies:
 
-* The first strategy is to randomly stick or switch. 
-* The second strategy is to never switch 
-* The third strategy is to always switch
+* The first strategy is to randomly stick or switch doors
+* The second strategy is to never switch doors
+* The third strategy is to always switch doors
 
 
 ## The Monty Hall Problem explained
